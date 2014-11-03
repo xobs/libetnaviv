@@ -12,3 +12,17 @@ m4/
 *.a
 *.la
 *.log
+
+/src/.libs/
+libtool
+*.pc
+config.status
+*.lo
+
+*.swp
+*.swo
+/debian/autoreconf.before
+/debian/autoreconf.after
+
+/debian/libetnaviv-dev/
+/debian/tmp/
