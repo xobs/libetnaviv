@@ -26,3 +26,5 @@ config.status
 
 /debian/libetnaviv-dev/
 /debian/tmp/
+/debian/libetnaviv-dbg/
+/debian/libetnaviv/
