@@ -4,7 +4,7 @@
 DEB_HOST_MULTIARCH=
 
 override_dh_auto_configure:
-	dh_auto_configure -- --with-galcore-include=/usr/include/galcore_headers/include_imx6_v4_6_9
+	dh_auto_configure -- --with-galcore-include=/usr/include/galcore_headers/include_v5
 
 override_dh_auto_install:
 	dh_auto_install --destdir=debian/tmp

@@ -1,3 +1,9 @@
+libetnaviv (1.1-r1) unstable; urgency=medium
+
+  * Switch to v5 headers
+
+ -- Sean Cross <xobs@kosagi.com>  Mon, 04 May 2015 15:07:40 +0800
+
 libetnaviv (0.0.0-r11) precise; urgency=low
 
   * Initial release
