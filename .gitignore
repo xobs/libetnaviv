@@ -28,3 +28,9 @@ config.status
 /debian/tmp/
 /debian/libetnaviv-dbg/
 /debian/libetnaviv/
+/debian/files
+/debian/libetnaviv-dbg.substvars
+/debian/libetnaviv-dev.substvars
+/debian/libetnaviv.postinst.debhelper
+/debian/libetnaviv.postrm.debhelper
+/debian/libetnaviv.substvars
